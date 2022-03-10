@@ -1,0 +1,11 @@
+hi team
+
+writing sample python program
+
+print('hello python world')
+
+'''
+
+bulk comments
+
+'''
