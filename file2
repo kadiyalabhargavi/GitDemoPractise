@@ -1,0 +1,13 @@
+learn how to create branches in remote repository
+
+steps that are used as below
+
+1) create a brach and name the branch as per required under remote repo
+2)we need to create a  locl repository folder in our local and add all the files in to the same folder
+3)git init
+4)
+do changes in the folde
+5)git remote -v
+6)git remote add origin remote repository
+7)git branch -M brnach (brnach that nned to save)
+8)git push -u origin main
